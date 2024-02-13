@@ -1,0 +1,279 @@
+Info: Initialising bels...
+Info: Initialising routing graph...
+Info:     imported 2739969 wires and 25465239 pips
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info:   C:port_name:SDATA req_mux:PIN_0 pin_style:0x0
+Info: Constraining IO 'I_MED.DSI_MISTRAL_IB_O' to pin PIN_AE12 (bel MISTRAL_IO.2.0.1)
+Info: Constraining IO 'I_MED.DI_MISTRAL_IB_O_7' to pin PIN_AB12 (bel MISTRAL_IO.12.0.1)
+Info: Constraining IO 'I_MED.DI_MISTRAL_IB_O_6' to pin PIN_AC12 (bel MISTRAL_IO.16.0.0)
+Info: Constraining IO 'I_MED.DI_MISTRAL_IB_O_5' to pin PIN_AF9 (bel MISTRAL_IO.8.0.2)
+Info: Constraining IO 'I_MED.DI_MISTRAL_IB_O_4' to pin PIN_AF10 (bel MISTRAL_IO.4.0.3)
+Info: Constraining IO 'I_MED.DI_MISTRAL_IB_O_3' to pin PIN_AD11 (bel MISTRAL_IO.2.0.0)
+Info: Constraining IO 'I_MED.DI_MISTRAL_IB_O_2' to pin PIN_AD12 (bel MISTRAL_IO.16.0.1)
+Info: Constraining IO 'I_MED.DI_MISTRAL_IB_O_1' to pin PIN_AE11 (bel MISTRAL_IO.4.0.2)
+Info: Constraining IO 'I_MED.DI_MISTRAL_IB_O' to pin PIN_AC9 (bel MISTRAL_IO.4.0.0)
+Info: Constraining IO 'nRST_MISTRAL_IB_PAD' to pin PIN_AA14 (bel MISTRAL_IO.36.0.0)
+Info: Constraining IO 'DSO_MISTRAL_OB_PAD' to pin PIN_Y21 (bel MISTRAL_IO.89.6.1)
+Info: Constraining IO 'DO_MISTRAL_OB_PAD_7' to pin PIN_V16 (bel MISTRAL_IO.52.0.0)
+Info: Constraining IO 'DO_MISTRAL_OB_PAD_6' to pin PIN_W16 (bel MISTRAL_IO.52.0.1)
+Info: Constraining IO 'DO_MISTRAL_OB_PAD_5' to pin PIN_V17 (bel MISTRAL_IO.60.0.0)
+Info: Constraining IO 'DO_MISTRAL_OB_PAD_4' to pin PIN_V18 (bel MISTRAL_IO.80.0.0)
+Info: Constraining IO 'DO_MISTRAL_OB_PAD_3' to pin PIN_W17 (bel MISTRAL_IO.60.0.1)
+Info: Constraining IO 'DO_MISTRAL_OB_PAD_2' to pin PIN_W19 (bel MISTRAL_IO.80.0.1)
+Info: Constraining IO 'DO_MISTRAL_OB_PAD_1' to pin PIN_Y19 (bel MISTRAL_IO.84.0.0)
+Info: Constraining IO 'DO_MISTRAL_OB_PAD' to pin PIN_W20 (bel MISTRAL_IO.89.6.0)
+Info: Constraining IO 'CLK_MISTRAL_IB_PAD' to pin PIN_AA15 (bel MISTRAL_IO.36.0.1)
+
+Info: Device utilisation:
+Info: 	        MISTRAL_COMB:    62/83820     0%
+Info: 	          MISTRAL_FF:    87/167640     0%
+Info: 	          MISTRAL_IO:    20/  472     4%
+Info: 	      MISTRAL_CLKENA:     1/    2    50%
+Info: 	 cyclonev_oscillator:     0/    1     0%
+Info: 	cyclonev_hps_interface_mpu_general_purpose:     0/    1     0%
+Info: 	        MISTRAL_M10K:     0/  553     0%
+
+Info: Placed 0 cells based on constraints.
+Info: Creating initial analytic placement for 130 cells, random placement wirelen = 15328.
+Info:     at initial placer iter 0, wirelen = 767
+Info:     at initial placer iter 1, wirelen = 659
+Info:     at initial placer iter 2, wirelen = 670
+Info:     at initial placer iter 3, wirelen = 654
+Info: Running main analytical placer, max placement attempts per cell = 10000.
+Info:     at iteration #1, type MISTRAL_FF: wirelen solved = 682, spread = 992, legal = 1095; time = 0.00s
+Info:     at iteration #1, type MISTRAL_COMB: wirelen solved = 1015, spread = 1172, legal = 1172; time = 0.00s
+Info:     at iteration #1, type MISTRAL_CLKENA: wirelen solved = 1172, spread = 1172, legal = 1380; time = 0.00s
+Info:     at iteration #1, type ALL: wirelen solved = 657, spread = 916, legal = 1166; time = 0.01s
+Info:     at iteration #2, type MISTRAL_FF: wirelen solved = 1106, spread = 1153, legal = 1259; time = 0.00s
+Info:     at iteration #2, type MISTRAL_COMB: wirelen solved = 1185, spread = 1285, legal = 1285; time = 0.00s
+Info:     at iteration #2, type MISTRAL_CLKENA: wirelen solved = 1083, spread = 1083, legal = 1285; time = 0.00s
+Info:     at iteration #2, type ALL: wirelen solved = 669, spread = 807, legal = 1199; time = 0.01s
+Info:     at iteration #3, type MISTRAL_FF: wirelen solved = 1019, spread = 1056, legal = 1183; time = 0.00s
+Info:     at iteration #3, type MISTRAL_COMB: wirelen solved = 1140, spread = 1203, legal = 1208; time = 0.00s
+Info:     at iteration #3, type MISTRAL_CLKENA: wirelen solved = 1006, spread = 1006, legal = 1208; time = 0.00s
+Info:     at iteration #3, type ALL: wirelen solved = 696, spread = 848, legal = 1121; time = 0.00s
+Info:     at iteration #4, type MISTRAL_FF: wirelen solved = 1028, spread = 1098, legal = 1117; time = 0.00s
+Info:     at iteration #4, type MISTRAL_COMB: wirelen solved = 1092, spread = 1117, legal = 1125; time = 0.00s
+Info:     at iteration #4, type MISTRAL_CLKENA: wirelen solved = 923, spread = 923, legal = 1140; time = 0.00s
+Info:     at iteration #4, type ALL: wirelen solved = 692, spread = 808, legal = 1057; time = 0.00s
+Info:     at iteration #5, type MISTRAL_FF: wirelen solved = 1018, spread = 1065, legal = 1072; time = 0.00s
+Info:     at iteration #5, type MISTRAL_COMB: wirelen solved = 1039, spread = 1132, legal = 1135; time = 0.00s
+Info:     at iteration #5, type MISTRAL_CLKENA: wirelen solved = 931, spread = 931, legal = 1135; time = 0.00s
+Info:     at iteration #5, type ALL: wirelen solved = 711, spread = 879, legal = 1125; time = 0.00s
+Info:     at iteration #6, type MISTRAL_FF: wirelen solved = 1034, spread = 1067, legal = 1161; time = 0.00s
+Info:     at iteration #6, type MISTRAL_COMB: wirelen solved = 1128, spread = 1180, legal = 1228; time = 0.00s
+Info:     at iteration #6, type MISTRAL_CLKENA: wirelen solved = 1026, spread = 1026, legal = 1248; time = 0.00s
+Info:     at iteration #6, type ALL: wirelen solved = 724, spread = 827, legal = 1128; time = 0.00s
+Info:     at iteration #7, type MISTRAL_FF: wirelen solved = 1039, spread = 1081, legal = 1095; time = 0.00s
+Info:     at iteration #7, type MISTRAL_COMB: wirelen solved = 1062, spread = 1102, legal = 1109; time = 0.00s
+Info:     at iteration #7, type MISTRAL_CLKENA: wirelen solved = 905, spread = 905, legal = 1130; time = 0.00s
+Info:     at iteration #7, type ALL: wirelen solved = 705, spread = 896, legal = 1149; time = 0.00s
+Info:     at iteration #8, type MISTRAL_FF: wirelen solved = 1084, spread = 1096, legal = 1160; time = 0.00s
+Info:     at iteration #8, type MISTRAL_COMB: wirelen solved = 1117, spread = 1180, legal = 1184; time = 0.00s
+Info:     at iteration #8, type MISTRAL_CLKENA: wirelen solved = 956, spread = 956, legal = 1184; time = 0.00s
+Info:     at iteration #8, type ALL: wirelen solved = 749, spread = 833, legal = 1088; time = 0.00s
+Info:     at iteration #9, type MISTRAL_FF: wirelen solved = 1053, spread = 1075, legal = 1101; time = 0.00s
+Info:     at iteration #9, type MISTRAL_COMB: wirelen solved = 1069, spread = 1080, legal = 1086; time = 0.00s
+Info:     at iteration #9, type MISTRAL_CLKENA: wirelen solved = 892, spread = 892, legal = 1086; time = 0.00s
+Info:     at iteration #9, type ALL: wirelen solved = 725, spread = 825, legal = 1153; time = 0.00s
+Info: HeAP Placer Time: 0.24s
+Info:   of which solving equations: 0.04s
+Info:   of which spreading cells: 0.03s
+Info:   of which strict legalisation: 0.02s
+
+Info: Running simulated annealing placer for refinement.
+Info:   at iteration #1: temp = 0.000000, timing cost = 5, wirelen = 1057
+Info:   at iteration #5: temp = 0.000000, timing cost = 2, wirelen = 1028
+Info:   at iteration #8: temp = 0.000000, timing cost = 2, wirelen = 1023 
+Info: SA placement time 0.02s
+
+Info: Max frequency for clock 'I_MED.CLK': 301.48 MHz (PASS at 50.00 MHz)
+
+Info: Slack histogram:
+Info:  legend: * represents 1 endpoint(s)
+Info:          + represents [1,1) endpoint(s)
+Info: [ 16683,  16823) |*** 
+Info: [ 16823,  16963) |***** 
+Info: [ 16963,  17103) |* 
+Info: [ 17103,  17243) |****** 
+Info: [ 17243,  17383) |*** 
+Info: [ 17383,  17523) | 
+Info: [ 17523,  17663) | 
+Info: [ 17663,  17803) | 
+Info: [ 17803,  17943) |* 
+Info: [ 17943,  18083) |******** 
+Info: [ 18083,  18223) |* 
+Info: [ 18223,  18363) |**** 
+Info: [ 18363,  18503) |**** 
+Info: [ 18503,  18643) |******** 
+Info: [ 18643,  18783) |***** 
+Info: [ 18783,  18923) | 
+Info: [ 18923,  19063) |*** 
+Info: [ 19063,  19203) |******* 
+Info: [ 19203,  19343) |**************** 
+Info: [ 19343,  19483) |******************************************* 
+Info: Checksum: 0xc005b956
+Info: Preparing LABs for routing...
+Info: Routing globals...
+Info:     routed net 'I_MED.CLK' using global resources
+Info: Running router2...
+Info: Setting up routing resources...
+Info: Running main router loop...
+Info:     iter=1 wires=1594 overused=50 overuse=58 archfail=NA
+Info:     iter=2 wires=1633 overused=22 overuse=22 archfail=NA
+Info:     iter=3 wires=1650 overused=7 overuse=7 archfail=NA
+Info:     iter=4 wires=1656 overused=4 overuse=4 archfail=NA
+Info:     iter=5 wires=1663 overused=2 overuse=2 archfail=NA
+Info:     iter=6 wires=1661 overused=2 overuse=2 archfail=NA
+Info:     iter=7 wires=1663 overused=1 overuse=1 archfail=NA
+Info:     iter=8 wires=1663 overused=1 overuse=1 archfail=NA
+Info:     iter=9 wires=1664 overused=1 overuse=1 archfail=NA
+Info:     iter=10 wires=1667 overused=0 overuse=0 archfail=0
+Info: Router2 time 0.20s
+Info: Running router1 to check that route is legal...
+
+Info: Routing..
+Info: Setting up routing queue.
+Info: Routing 0 arcs.
+Info:            |   (re-)routed arcs  |   delta    | remaining|       time spent     |
+Info:    IterCnt |  w/ripup   wo/ripup |  w/r  wo/r |      arcs| batch(sec) total(sec)|
+Info:          0 |        0          0 |    0     0 |         0|       0.00       0.00|
+Info: Routing complete.
+Info: Router1 time 0.00s
+Info: Checksum: 0xa1936c63
+
+Info: Critical path report for clock 'I_MED.CLK' (posedge -> posedge):
+Info: curr total
+Info:  0.7  0.7  Source I_MED.DO_MISTRAL_FF_Q.Q
+Info:  2.4  3.1    Net I_MED.DO[7] (43,1) -> (43,2)
+Info:                Sink I_MED.DSI_MISTRAL_ALUT5_D_E_MISTRAL_ALUT3_Q_C_MISTRAL_ALUT_ARITH_SO.A
+Info:                Defined in:
+Info:                  /comelec/softs/opt/yosys/current/bin/../share/yosys/intel_alm/common/alm_map.v:7.19-7.20
+Info:  1.3  4.4  Source I_MED.DSI_MISTRAL_ALUT5_D_E_MISTRAL_ALUT3_Q_C_MISTRAL_ALUT_ARITH_SO.SO
+Info:  0.9  5.3    Net I_MED.DSI_MISTRAL_ALUT5_D_E_MISTRAL_ALUT3_Q_C[2] (43,2) -> (43,1)
+Info:                Sink I_MED.DSI_MISTRAL_ALUT5_D_E_MISTRAL_ALUT3_Q.C
+Info:                Defined in:
+Info:                  /comelec/softs/opt/yosys/current/bin/../share/yosys/intel_alm/common/alm_map.v:7.19-7.20
+Info:  0.1  5.4  Source I_MED.DSI_MISTRAL_ALUT5_D_E_MISTRAL_ALUT3_Q.Q
+Info:  0.6  6.0    Net I_MED.DSI_MISTRAL_ALUT5_D_E[4] (43,1) -> (43,1)
+Info:                Sink I_MED.DSI_MISTRAL_ALUT6_A.E
+Info:                Defined in:
+Info:                  /comelec/softs/opt/yosys/current/bin/../share/yosys/intel_alm/common/alm_map.v:7.19-7.20
+Info:  0.4  6.4  Source I_MED.DSI_MISTRAL_ALUT6_A.Q
+Info:  0.8  7.2    Net I_MED.DO_MISTRAL_FF_Q_ENA (43,1) -> (43,2)
+Info:                Sink I_MED.DO_MISTRAL_FF_Q_7.ENA
+Info: -0.2  7.0  Setup I_MED.DO_MISTRAL_FF_Q_7.ENA
+Info: 2.4 ns logic, 4.7 ns routing
+
+Info: Max frequency for clock 'I_MED.CLK': 141.94 MHz (PASS at 50.00 MHz)
+
+Info: Slack histogram:
+Info:  legend: * represents 1 endpoint(s)
+Info:          + represents [1,1) endpoint(s)
+Info: [ 12955,  13263) |********* 
+Info: [ 13263,  13571) |* 
+Info: [ 13571,  13879) |** 
+Info: [ 13879,  14187) |** 
+Info: [ 14187,  14495) |* 
+Info: [ 14495,  14803) | 
+Info: [ 14803,  15111) | 
+Info: [ 15111,  15419) |**** 
+Info: [ 15419,  15727) |** 
+Info: [ 15727,  16035) |**** 
+Info: [ 16035,  16343) |** 
+Info: [ 16343,  16651) | 
+Info: [ 16651,  16959) |**** 
+Info: [ 16959,  17267) |****** 
+Info: [ 17267,  17575) |******* 
+Info: [ 17575,  17883) |****************** 
+Info: [ 17883,  18191) |*************** 
+Info: [ 18191,  18499) |***** 
+Info: [ 18499,  18807) |******************* 
+Info: [ 18807,  19115) |***************** 
+
+Info: Program finished normally.
